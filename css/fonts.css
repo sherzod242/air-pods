@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'mont';
+    src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: 400;
+  }
+@font-face{
+    font-family: 'mont';
+    src: url('../fonts/Montserrat-Medium.ttf') format('truetype');
+    font-weight: 700;
+  }
+  @font-face{
+    font-family: 'prosto';
+    src: url('../fonts/ProstoOne-Regular.ttf') format('truetype');
+    font-weight: 500;
+  }
